@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Game
 
-Live Demo - https://github.com/Ankit-codings Responsive-Industrial-Business-Website-Template/
+Live Demo -  https://ankit-codings.github.io/Rock-Paper-Scissors-Game/
 
 Join Us Instagram - https://www.instagram.com/_ankit_rider_07?igsh=Ymd1Nm9wcDFia20=
 
